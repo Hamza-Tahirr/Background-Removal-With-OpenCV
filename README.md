@@ -22,6 +22,7 @@ A small Python script that removes the background from a live webcam feed in rea
 .
 ├── main.py            # webcam capture and background removal loop
 ├── requirements.txt
+├── LICENSE
 └── README.md
 ```
 
